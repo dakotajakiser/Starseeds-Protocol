@@ -1,4 +1,4 @@
-# STARSEEDS PROTOCOLV2
+# STARSEEDS PROTOCOL V2
 
 Many core contracts within the StarSeeds Protocol have been significantly improved in order to further increase returns, liquidity and stability for the StarSeeds Protocols ecosystem.
 
@@ -23,7 +23,7 @@ Remaining gains from the above mentioned activities to be deployed by the StarSe
 
 15% wSTARV2. A yield bearing version of STARV2 with an additional 12% APY.
 
-25% [MVLP](https://app.metavault.trade/#/buy_mvlp) an AI managed portfolio of 10 top cryptocurrencies (BTC, ETH, Matic, stMatic, stETH, Chainlink, Aave, Dai, USDT, BUSD) that is arbitraged and utilized for decentralized binary, leverage and automated trading services to produce 40%+ APR at the time of writing.
+25% [MVLP](https://app.metavault.trade/#/buy_mvlp) a managed portfolio of 10 top cryptocurrencies, BTC(31%), ETH(31%), Matic(8%), stMatic, Chainlink, Aave, Dai(5%), USDC(12%), USDT(8%), BUSD, that is arbitraged and utilized for decentralized binary, leverage and automated trading services to produce 40%+ APR at the time of writing. Portfolio perportions subject to change pending market conditions.
 
 [Olive Finance](https://oliveapp.finance/earn/vaults/mvlp-high-yield-polygon) a autocompounding yield enhancer for MVLP tokens that increases return to over 80% APY at time of writing. 
 
@@ -45,7 +45,7 @@ Significant development of custom balancer LP smart logic alongside custom StarS
 
 At the current Phase of development, we have
 
-1. Gotten whitelisted by the balancer DAO for STARV2. You can find our token easily by typing star into the balancer search engine.
+1. Gotten whitelisted by the balancer DAO for STARV2. You can find our token easily by typing star into the polygon balancer search engine.
 2. Created and whitelisted the 80mooMvxMVLP20wUSDR balancer LP. (mooMvxMVLP is a beefy finance autocompounding version of MVLP)
 
 Next we are releasing the first version of STARV2 LP that will be paired 40% STARV2 with 60% 80mooMvxMVLP20wUSDR. Following that we are launching proposals in the Balancer DAO to obtain a Gauge for 40V2STAR60mooMvxMvLPwUSDR pool. After which our LP will qualify for incentive rewards from Balancer. 
