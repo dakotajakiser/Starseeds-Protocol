@@ -15,7 +15,7 @@
   * [Strategy Adaptation to Complex Stablecoin Strategy](stablecoin-upgrade.md)
   * [High Yield ETH Staking Strategy](protocol-trading-stragies/high-yield-eth-staking-strategy.md)
   * [High Yield, Medium Volume, Simple Matic Strategy](matic-strategy.md)
-  * Exceptional Yield, Low Volume, Liquid QiDAO Strategy](qi-strategy.md)
+  * [Exceptional Yield, Low Volume, Liquid QiDAO Strategy](qi-strategy.md)
 * [Developer Bounties](https://app.dework.xyz/starseeds-protocol/main-space-60880/overview)
 * [Smart Contracts](contracts.md)
 * [Audit](https://solidity.finance/audits/StarSeed/)
