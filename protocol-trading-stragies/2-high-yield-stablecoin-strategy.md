@@ -1,10 +1,10 @@
 ---
 description: >-
-  This strategy provides 30%+ vAPY as of 5/21/2023. Subject to change over time.
+  This strategy provides 20%+ vAPY as of 6/05/2023. Subject to change over time.
   Strategy relies upon DAI/USDT/USDC/USDR/CURVE/CONVEX.
 ---
 
-# #2 High Yield Stablecoin Strategy
+# High Yield/High Volume Stablecoin Strategy
 
 Through proper application of Decentralized Finance (DeFi) nearly anyone in the world can benefit from return rates typically reserved for elite investors, and without suffering from the volatility that comes with standard cryptocurrencies like Bitcoin. \
 \
