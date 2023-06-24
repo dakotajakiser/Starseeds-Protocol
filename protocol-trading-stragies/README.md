@@ -1,2 +1,2 @@
-# Protocol Trading Stragies
+# Protocol Trading Strategies
 
