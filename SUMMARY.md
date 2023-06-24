@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The StarSeeds Protocol](README.md)
+* [StarSeeds Protocol V2](starseeds-protocolV2.md)
 * [StarStations](starstations/README.md)
   * [StarStation Tutorial](starstations/starstation-tutorial.md)
 * [StarSeeds DAO](starseeds-dao/README.md)
@@ -9,7 +10,6 @@
   * [STARGOV Command Bridges](https://starseeds-protocol.eth.limo/#/starCommand)
   * [StarSeeds DAO Snapshot Group](https://snapshot.org/#/starseeds-dao.eth)
 * [Referral Network](referral-network.md)
-* [StarSeeds Protocol V2](starseeds-protocolV2.md)
 * [Protocol Trading Stragies](protocol-trading-stragies/README.md)
   * [Complex High Yield Volume Stablecoin Strategy](protocol-trading-stragies/2-high-yield-stablecoin-strategy.md)
   * [Strategy Adaptation to Complex Stablecoin Strategy](stablecoin-upgrade.md)
