@@ -9,7 +9,7 @@
   * [STARGOV Token Price is Resistant to Manipulation](starseeds-dao/2.-stargov-token-price-is-resistant-to-manipulation.md)
   * [STARGOV Command Bridges](https://starseeds-protocol.eth.limo/#/starCommand)
   * [StarSeeds DAO Snapshot Group](https://snapshot.org/#/starseeds-dao.eth)
-* [Referral Network](referral-network.md)
+* [Starseeds Representative Network](referral-network.md)
 * [Protocol Trading Stragies](protocol-trading-stragies/README.md)
   * [Complex High Yield, High Volume Stablecoin Strategy](protocol-trading-stragies/2-high-yield-stablecoin-strategy.md)
   * [Strategy Adaptation to Complex Stablecoin Strategy](stablecoin-upgrade.md)
