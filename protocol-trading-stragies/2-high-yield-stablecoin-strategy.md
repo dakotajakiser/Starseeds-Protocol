@@ -21,3 +21,5 @@ Step 3. Go to [inch1.io](https://1inch.io/) Whichever currency give the best rat
 Step 4. Do not stake your LP tokens on the Curve site. Instead go to [Convex ](https://www.convexfinance.com/stake)or [Harvest Finance](https://old.harvest.finance/) and deposit your LP tokens there for a higher return. Harvest Finance gives the highest return and autocompounds the vast majority of the return, wheras Convex has much higher TVL (over 3 Billion USD as of 5/21/2023), compared to Harvest Finance's 10M+ TVL. Theoritically this means that Convex may be more secure then Harvest Finance. \
 \
 Step 5. Visit the Curve or Harvest Claim page periodically for to claim your additional interest. If using Curve, claiming and compounding your interest on a regular basis will significantly affect your APY.&#x20;
+
+Update: Use the adaptation for this strategy instead of following Step 5 to more then double yield.
