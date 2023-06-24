@@ -12,12 +12,11 @@ STARV2 is being deployed on a complex, multilayered set of [Balancer](https://ba
 
 15% STARV2: The primary upgraded token of the StarSeeds Protocol, which increases in value over time via
 
-1. Buy and burns from
-1.1 20% of the revenues from trading strategies deployed by the StarSeeds DAO\
-1.2 30% of balancer incentive gauge rewards from StarSeeds Protocol owned STARV2 balancer LP.\
-1.3 30% of the trading fees from the StarSeeds Balancer STARV2 LP arbitrage trading bot.\
-2. 100% of Interest generated from all Strategies deployed in the STARV2 Balancer LP.
-3. 100% of the increase in value of volatile tokens deployed in STARV2 Balancer LP.
+1. Buy and burns from 20% of the revenues from trading strategies deployed by the StarSeeds DAO
+2. 30% of balancer incentive gauge rewards from StarSeeds Protocol owned STARV2 balancer LP.
+3. 30% of the trading fees from the StarSeeds Balancer STARV2 LP arbitrage trading bot.
+4. 100% of revenue generated from all Strategies deployed in the STARV2 Balancer LP.
+5. 100% of the increase in value of volatile tokens deployed in STARV2 Balancer LP.
 
 Remaining gains from the above mentioned activities to be deployed by the StarSeeds DAO. 
 
