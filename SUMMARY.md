@@ -10,7 +10,7 @@
   * [STARGOV Command Bridges](https://starseeds-protocol.eth.limo/#/starCommand)
   * [StarSeeds DAO Snapshot Group](https://snapshot.org/#/starseeds-dao.eth)
 * [Starseeds Representative Network](referral-network.md)
-* [Protocol Trading Stragies](protocol-trading-stragies/README.md)
+* [Protocol Trading Strategies](protocol-trading-stragies/README.md)
   * [Complex High Yield, High Volume Stablecoin Strategy](protocol-trading-stragies/2-high-yield-stablecoin-strategy.md)
   * [Strategy Adaptation to Complex Stablecoin Strategy](stablecoin-upgrade.md)
   * [High Yield ETH Staking Strategy](protocol-trading-stragies/high-yield-eth-staking-strategy.md)
