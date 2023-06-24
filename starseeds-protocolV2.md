@@ -1,6 +1,6 @@
 # STARSEEDS PROTOCOL V2
 
-Many core contracts within the StarSeeds Protocol have been significantly improved in order to further increase returns, liquidity and stability for the StarSeeds Protocols ecosystem.
+Many core contracts within the StarSeeds Protocol have been significantly improved in order to increase returns, liquidity and stability for the StarSeeds Protocols ecosystem.
 
 1. StarStations and Command Stations are now stakeable items. Users may collect their tokens at any time rather then a weekly airdrop. This decreases Protocol Gas fees while putting more power in the hands of the User.
 
