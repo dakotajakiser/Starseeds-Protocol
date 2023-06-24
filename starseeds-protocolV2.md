@@ -8,17 +8,13 @@ Many core contracts within the StarSeeds Protocol have been significantly improv
 
 Since the initial launch of Star, many DeFi Protocols have been upgraded for more efficient trading with built in LP yields and lower fees, which result in a greater return for stakers and lower costs for traders.&#x20;
 
-STARV2 is being deployed on a complex, multilayered set of [Balancer](https://balancer.fi/) liquidity pools that use custom smart logic with other layer three protocols to increase ecosystem profitability and stability while reducing costs. Finalized STARV2 LP will contain a mixture of
-
-20% STARV2: The primary upgraded token of the StarSeeds Protocol, which increases in value over time via
+STARV2 is being deployed on a complex, multilayered set of [Balancer](https://balancer.fi/) liquidity pools that use custom smart logic with other layer three protocols to increase ecosystem profitability and stability while reducing costs. Finalized STARV2 LP will contain a mixture of 20% STARV2: The primary upgraded token of the StarSeeds Protocol, which increases in value over time via
 
 1. Buy and burns from 20% of the revenues from trading strategies deployed by the StarSeeds DAO
 2. 30% of balancer incentive gauge rewards from StarSeeds Protocol owned STARV2 balancer LP.
 3. 30% of the trading fees from the StarSeeds Balancer STARV2 LP arbitrage trading bot.
 4. 100% of revenue generated from all Strategies deployed in the STARV2 Balancer LP.
-5. 100% of the increase in value of volatile tokens deployed in STARV2 Balancer LP.
-
-(Remaining gains from the above mentioned activities to be deployed by the StarSeeds DAO.)
+5. 100% of the increase in value of volatile tokens deployed in STARV2 Balancer LP. (Remaining gains from the above mentioned activities to be deployed by the StarSeeds DAO.)
 
 10% wSTARV2. A yield bearing version of STARV2 with an additional 12% APY.
 
