@@ -8,7 +8,7 @@
   * [2. STARGOV Token Price is Resistant to Manipulation](starseeds-dao/2.-stargov-token-price-is-resistant-to-manipulation.md)
   * [STARGOV Command Bridges](https://starseeds-protocol.eth.limo/#/starCommand)
 * [Referral Network](referral-network.md)
-* [STARV2](starv2.md)
+* [StarSeeds Protocol V2](starseeds-protocolV2.md)
 * [Protocol Trading Stragies](protocol-trading-stragies/README.md)
   * [#2 High Yield Stablecoin Strategy](protocol-trading-stragies/2-high-yield-stablecoin-strategy.md)
   * [High Yield ETH Staking Strategy](protocol-trading-stragies/high-yield-eth-staking-strategy.md)
