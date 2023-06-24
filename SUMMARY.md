@@ -11,7 +11,7 @@
   * [StarSeeds DAO Snapshot Group](https://snapshot.org/#/starseeds-dao.eth)
 * [Referral Network](referral-network.md)
 * [Protocol Trading Stragies](protocol-trading-stragies/README.md)
-  * [Complex High Yield Volume Stablecoin Strategy](protocol-trading-stragies/2-high-yield-stablecoin-strategy.md)
+  * [Complex High Yield, High Volume Stablecoin Strategy](protocol-trading-stragies/2-high-yield-stablecoin-strategy.md)
   * [Strategy Adaptation to Complex Stablecoin Strategy](stablecoin-upgrade.md)
   * [High Yield ETH Staking Strategy](protocol-trading-stragies/high-yield-eth-staking-strategy.md)
   * [High Yield, Medium Volume, Simple Matic Strategy](matic-strategy.md)
