@@ -10,7 +10,7 @@ Since the initial launch of Star, many DeFi Protocols have been upgraded for mor
 
 STARV2 is being deployed on a complex, multilayered set of [Balancer](https://balancer.fi/) liquidity pools that use custom smart logic with other layer three protocols to increase ecosystem profitability and stability while reducing costs. Finalized STARV2 LP will contain a mixture of
 
-15% STARV2: The primary upgraded token of the StarSeeds Protocol, which increases in value over time via
+20% STARV2: The primary upgraded token of the StarSeeds Protocol, which increases in value over time via
 
 1. Buy and burns from 20% of the revenues from trading strategies deployed by the StarSeeds DAO
 2. 30% of balancer incentive gauge rewards from StarSeeds Protocol owned STARV2 balancer LP.
@@ -18,9 +18,9 @@ STARV2 is being deployed on a complex, multilayered set of [Balancer](https://ba
 4. 100% of revenue generated from all Strategies deployed in the STARV2 Balancer LP.
 5. 100% of the increase in value of volatile tokens deployed in STARV2 Balancer LP.
 
-Remaining gains from the above mentioned activities to be deployed by the StarSeeds DAO. 
+(Remaining gains from the above mentioned activities to be deployed by the StarSeeds DAO.)
 
-15% wSTARV2. A yield bearing version of STARV2 with an additional 12% APY.
+10% wSTARV2. A yield bearing version of STARV2 with an additional 12% APY.
 
 25% [MVLP](https://app.metavault.trade/#/buy_mvlp) a managed portfolio of 10 top cryptocurrencies, BTC(31%), ETH(31%), Matic(8%), stMatic, Chainlink, Aave, Dai(5%), USDC(12%), USDT(8%), BUSD, that is arbitraged and utilized for decentralized binary, leverage and automated trading services to produce 40%+ APR at the time of writing. Portfolio perportions subject to change pending market conditions.
 
