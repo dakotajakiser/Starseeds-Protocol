@@ -1,13 +1,16 @@
 # Table of contents
 
 * [The StarSeeds Protocol](README.md)
-* [StarSeeds Protocol V2](starseeds-protocolV2.md)
+* [StarSeeds Protocol V2](starseeds-protocolv2/README.md)
+  * [STARV2 Featuring Compounding Growth](starseeds-protocolv2/starv2-featuring-compounding-growth.md)
+  * [STARV2 Balancer SuperPool](starseeds-protocolv2/starv2-balancer-superpool.md)
 * [StarStations](starstations/README.md)
   * [StarStation Tutorial](starstations/starstation-tutorial.md)
+  * [Create StarStations](https://starseeds-protocol.eth.limo/#/starStations)
 * [StarSeeds DAO](starseeds-dao/README.md)
   * [Voting Rights are a Privilege. Not a Paycheck.](starseeds-dao/1.-voting-rights-are-a-privilege.-not-a-paycheck..md)
   * [STARGOV Token Price is Resistant to Manipulation](starseeds-dao/2.-stargov-token-price-is-resistant-to-manipulation.md)
-  * [STARGOV Command Bridges](https://starseeds-protocol.eth.limo/#/starCommand)
+  * [Create STARGOV Command Bridges](https://starseeds-protocol.eth.limo/#/starCommand)
   * [StarSeeds DAO Snapshot Group](https://snapshot.org/#/starseeds-dao.eth)
 * [Starseeds Representative Network](starseeds-representative-network.md)
 * [Protocol Trading Strategies](protocol-trading-stragies/README.md)
