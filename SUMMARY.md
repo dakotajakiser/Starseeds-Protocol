@@ -19,6 +19,7 @@
   * [High Yield ETH Staking Strategy](protocol-trading-stragies/high-yield-eth-staking-strategy.md)
   * [High Yield, Medium Volume, Simple Matic Strategy](Matic-strategy.md)
   * [Exceptional Yield, Low Volume, Liquid QiDAO Strategy](Qi-strategy.md)
-* [Developer Bounties](https://app.dework.xyz/starseeds-protocol/main-space-60880/overview)
 * [Smart Contracts](contracts.md)
+* [Developer Bounties](https://app.dework.xyz/starseeds-protocol/main-space-60880/overview)
 * [Audit](https://solidity.finance/audits/StarSeed/)
+* [StarSeed's Protocol dAPP V1](https://starseeds-protocol.eth.limo/#/)
