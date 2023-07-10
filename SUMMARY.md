@@ -9,7 +9,7 @@
   * [Create StarStations](https://starseeds-protocol.eth.limo/#/starStations)
 * [StarSeeds DAO](starseeds-dao/README.md)
   * [StarSeeds DAO V2](starseeds-dao/starseeds-dao-v2.md)
-  * [Voting Rights are a Privilege. Not a Paycheck.](starseeds-dao/1.-voting-rights-are-a-privilege.-not-a-paycheck..md)
+  * [Critical Voting Decisions Can't be Bribed.](starseeds-dao/1.-voting-rights-are-a-privilege.-not-a-paycheck..md)
   * [STARGOV Token Price is Resistant to Manipulation](starseeds-dao/2.-stargov-token-price-is-resistant-to-manipulation.md)
   * [Create STARGOV Command Bridges](https://starseeds-protocol.eth.limo/#/starCommand)
   * [StarSeeds DAO Snapshot Group](https://snapshot.org/#/starseeds-dao.eth)
