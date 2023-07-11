@@ -2,7 +2,7 @@
 
 * [The StarSeeds Protocol](README.md)
 * [StarSeeds Protocol V2](starseeds-protocolv2/README.md)
-  * [STARV2 Featuring Compounding Growth](starseeds-protocolv2/starv2-featuring-compounding-growth.md)
+  * [STARv2](starseeds-protocolv2/starv2-featuring-compounding-growth.md)
   * [STARV2 Balancer SuperPool](starseeds-protocolv2/starv2-balancer-superpool.md)
 * [StarStations](starstations/README.md)
   * [StarStation Tutorial](starstations/starstation-tutorial.md)

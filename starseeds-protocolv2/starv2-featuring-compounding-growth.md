@@ -1,6 +1,6 @@
-# STARV2 Featuring Compounding Growth
+# STARv2
 
-STARV2 has a set of enhancements that increase its value over time compared to STARV1 from automated buy and burn mechanisms fueled by
+STARv2 has a set of upgredes that increase its value over time compared to STARV1 from DEX trading trading strategies that create buy pressure for and continue limiting the supply the STARv2 Supply  mechanisms fueled by
 
 1. 20% of the revenues from trading strategies deployed by the StarSeeds DAO
 2. 30% of balancer incentive gauge rewards from StarSeeds Protocol owned STARV2 balancer LP.
