@@ -5,4 +5,6 @@ STARPower Generators can be staked for additional STARP. They can also be upgrad
 STARP LV1: Costs 100 STARP and 1 STARv2 to mint. Generates 1.5 STARP  per day \
 STARP LV2: Costs 500 STARP and 2 STARv2 to mint. Generates 9 STARP per day\
 STARP LV3: Costs 2,000 STARP and 3 STARv2 to mint. Generates 33 STARP/0.2 STARC Cper day\
-STARP LV4: Costs 10,000 STARP and 4 STARv2 to mint. Generates 144 STARP/1 STARC per day.
+STARP LV4: Costs 10,000 STARP and 4 STARv2 to mint. Generates 144 STARP/1 STARC per day.\
+\
+The FTM version of STARP Generators require Beets to mint instead of STARv2
