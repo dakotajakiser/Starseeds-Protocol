@@ -14,7 +14,13 @@
 ](representative-network.md)\
 [STARDollarsV2: 0x7b2a9632519467F2B74CA1D36874549ae918c882](https://polygonscan.com/address/0x7b2a9632519467F2B74CA1D36874549ae918c882)\
 \
-[STARPowerV2: 0x4C29Aa9FdED55fF017a973DdB7576359FbFD8301](https://polygonscan.com/address/0x4C29Aa9FdED55fF017a973DdB7576359FbFD8301)
+Polygon [STARPowerV2: 0x4C29Aa9FdED55fF017a973DdB7576359FbFD8301](https://polygonscan.com/address/0x4C29Aa9FdED55fF017a973DdB7576359FbFD8301)\
+\
+Fantom [STARPowerV2: 0xf083E641BE17b44a6ea0bF8383c3a057876fD775](https://ftmscan.com/address/0xf083E641BE17b44a6ea0bF8383c3a057876fD775)\
+\
+Fantom [STARPGenerator: x797a90D43F9095D47be0A2aA823AF04a5BeDB26](https://ftmscan.com/address/0x797a90D43F9095D47be0A2aA823AF04a5BeDB268)[8](https://ftmscan.com/address/0x797a90D43F9095D47be0A2aA823AF04a5BeDB268)
+
+Fantom [STARPG Staking Contract: 0xbe9D229e07f9C50F6A9B9CE75D573e1E269BfB8D](https://ftmscan.com/address/0xbe9D229e07f9C50F6A9B9CE75D573e1E269BfB8D)
 
 [StarseedsV1 Reward Locker: 0xdaf3aa95303698b9e904d8e3854c2997a711fd82](https://polygonscan.com/address/0xdaf3aa95303698b9e904d8e3854c2997a711fd82)
 
