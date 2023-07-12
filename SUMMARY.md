@@ -10,7 +10,7 @@
   * [Gamified Yield Enhancing Ecosystem Tokens](starseeds-protocolv2/gamified-yield-enhancing-ecosystem-tokens.md)
   * [Financially Beneficial Virtual Items](starseeds-protocolv2/financially-beneficial-virtual-items/README.md)
     * [Martial Flip StarStations](starseeds-protocolv2/financially-beneficial-virtual-items/martial-flip-starstations.md)
-      * [STARPower Generators](starseeds-protocolv2/financially-beneficial-virtual-items/martial-flip-starstations/starpower-generators.md)
+    * [STARPower Generators](starseeds-protocolv2/financially-beneficial-virtual-items/starpower-generators.md)
 * [StarSeeds DAO](starseeds-dao/README.md)
   * [StarSeeds DAO V2](starseeds-dao/starseeds-dao-v2.md)
   * [Critical Voting Decisions Can't be Bribed.](starseeds-dao/1.-voting-rights-are-a-privilege.-not-a-paycheck..md)
