@@ -8,5 +8,8 @@ STARPower. A deflationary farm token without a tightly controlled value/collater
 \
 The combination of effects from burning tokens and reducing the maximum supply is designed to eventually balancing the tokens market value.
 
+\
+STARPower and STARP Generator yield producing NFTs are launching first on Fantom at Beets.fi. STARP is being bootstrapped on Beets launchpad, paired with Beets (and other tokens) on the Beets Exchange, and STARP Generators will require both STARP and Beets to mint.&#x20;
+
 <figure><img src="../.gitbook/assets/STARD1.jpg" alt="STARD"><figcaption></figcaption></figure>
 
