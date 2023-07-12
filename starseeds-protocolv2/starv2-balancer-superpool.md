@@ -1,5 +1,6 @@
-# STARV2 Balancer SuperPool
+# V2: Multi-protocol, Multi-chain.
 
-STARV2 is being deploy across a series of DEXs as part o\
+The StarSeeds Protocol V2 has assets deployed on Polygon, Arbitrum, Optimism, and Fantom. We are integrating with numerous other protocols for a wide variety of financial benefits. \
 \
+We are currently utilizing integrations (and some partnerships with) Balancer, Curve, Beethoven, Midas, Meshswap, Gitcoin, Beethoven, Beefy, Pearl, Velodrome, Tetu, LQDR, and 1inch, Insurace, Firebird, \
 \
