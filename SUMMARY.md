@@ -9,7 +9,7 @@
   * [STARPower](starseeds-protocolv2/starpower.md)
   * [Gamified Yield Enhancing Ecosystem Tokens](starseeds-protocolv2/gamified-yield-enhancing-ecosystem-tokens.md)
 * [Virtual Items with Unique Utility](virtual-items-with-unique-utility/README.md)
-  * [Martial Flip Cruisers](virtual-items-with-unique-utility/martial-flip-cruisers.md)
+  * [Martial Flip Cruisers](virtual-items-with-unique-utility/martial-flip-starstations.md)
   * [STARPower Generators](virtual-items-with-unique-utility/starpower-generators.md)
   * [Arcturian Moon Stations](virtual-items-with-unique-utility/arcturian-moon-stations.md)
   * [Andromeda Homeships](virtual-items-with-unique-utility/andromeda-homeships.md)
