@@ -7,6 +7,6 @@ Many core contracts within the StarSeeds Protocol have been significantly improv
 
 3. STARDollars: our Protocols's USD pegged stablecoin, previously depreciated, has been completely redesigned with major upgrades and partnership integrations that provide the most significant and secure yield that we can. \
 
-4. Revenue Multiplying Gamification Technology: Including STARPower Generators, STARP deflationary tokens,  are a new set of revenue enhancing contracts. These token generating virtual items provide a unique percentage increase that increases over time to the revenues produced by STARV2, StarStations, and StarDollars. \
-
-5. 100% decentralized DAO Controlled Treasury designed to aggregate collective human intelligence for the purpose of maximizing returns on deployed DEX/DAO trading strategies &#x20;
+4. Revenue Multiplying Gamification Technology: Including STARPower Generators, STARP deflationary tokens,  are a new set of revenue enhancing contracts. These token generating virtual items provide a unique percentage increase that increases over time to the revenues produced by STARV2, StarStations, and StarDollars.&#x20;
+5. 100% decentralized DAO Controlled Treasury designed to aggregate collective human intelligence for the purpose of maximizing returns on deployed DEX/DAO trading strategies \
+   &#x20;&#x20;
