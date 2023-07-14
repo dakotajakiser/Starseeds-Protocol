@@ -16,4 +16,4 @@ STARPower created by STARPGenerators.\
 \
 STARM and STARA are used alongside STARC and STARP to upgrade StarStations, which increases their daily yield.&#x20;
 
-STARFuel: Spent as a direct yield STARv2 enhancer for Andromedas leverage and the Martial Destroyer NFTs.&#x20;
+STARFuel: Spent as a direct yield STARv2 enhancer for all STARv2 NFT staking options.&#x20;
