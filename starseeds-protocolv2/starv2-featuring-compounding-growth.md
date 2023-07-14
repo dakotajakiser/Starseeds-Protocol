@@ -1,11 +1,10 @@
-# STARv2
+# STARv2: Liquidity Enhancements
 
-STARv2 has a set of upgredes that increase its value over time compared to STARV1 from DEX trading trading strategies that create buy pressure for and continue limiting the supply the STARv2 Supply  mechanisms fueled by
-
-1. 20% of the revenues from trading strategies deployed by the StarSeeds DAO
-2. 30% of balancer incentive gauge rewards from StarSeeds Protocol owned STARV2 balancer LP.
-3. 30% of the trading fees from the StarSeeds Balancer STARV2 LP arbitrage trading bot.
-4. 100% of revenue generated from all Strategies deployed in the STARV2 Balancer LP.
-5. 100% of the increase in value of volatile tokens deployed in STARV2 Balancer LP. \
-   \
-   (Above variables subject to change via approved proposal from the StarSeeds DAO.)
+A STARv2 superpool on balancer is being built in such a way that gives STARv2 easy trade-ability with most stablecoins and a exceptional APR linked to the returns of the other tokens in the pool. \
+\
+The superpool is designed to be made of\
+33% STARv2\
+33% STARD (3 layered Stablepool set with tetu and balancer boosted USDC, DAI, USDT, wUSDR, USDR, USD+,  and compounding wUSDR-USDR on the pearl exchange. 15% target APR.\
+33% in a autocompounding collection of 50% tangible-usdr, 20% wbtc-usdr, 20% eth-usdr and Tetu USD. \
+\
+We are designing an arbitrage bot that is able to pack and unpack the multistep compounding tokens used in our BP to generate additional revenues, which are then split between buying and burning STARV2 and being placed into the DAO controlled Treasury.&#x20;
