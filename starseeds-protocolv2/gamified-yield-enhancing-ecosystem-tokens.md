@@ -8,12 +8,12 @@ The end result of the game is a percentage increase to the base, regenerative yi
 \
 STARCredits. This token is our gateway to the more gamified elements of the platform. Directly paired to STARv2, and the rest of the tokens in our game ecosystem.\
 \
-STARMetal. Harvested by Martial Flip and Arcturian Arbitrage StarStations.&#x20;
+STARMatter. Harvested by Martial Flip and Arcturian Moon Stations.&#x20;
 
-STARAlloys Forged by Arcturian Star Stations from STARMetal.\
+STARAlloys Forged by Arcturian Moon Stations from STARMatter.\
 \
 STARPower created by STARPGenerators.\
 \
-STARM and STARA are used alongside STARC and STARP to upgrade StarStations, which increases their daily yield.&#x20;
+STARMatter and STARAlloys are used alongside STARCredits and STARPower to upgrade StarStations, which increases their daily yield.&#x20;
 
-STARFuel: Spent as a direct yield STARv2 enhancer for all STARv2 NFT staking options.&#x20;
+STARFuel: Spent as a direct yield STARv2 enhancer for the most potent STARv2 NFT staking options.&#x20;
