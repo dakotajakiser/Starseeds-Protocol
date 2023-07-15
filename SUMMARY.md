@@ -20,6 +20,7 @@
   * [STARGOV Token Price is Resistant to Manipulation](starseeds-dao/2.-stargov-token-price-is-resistant-to-manipulation.md)
   * [Create STARGOV Command Bridges](https://starseeds-protocol.eth.limo/#/starCommand)
   * [StarSeeds DAO Snapshot Group](https://snapshot.org/#/starseeds-dao.eth)
+* [StarSeeds Protocol Treasury](starseeds-protocol-treasury.md)
 * [Starseeds Representative Network](representative-network.md)
 * [Smart Contracts](contracts.md)
 * [Developer Bounties](https://app.dework.xyz/starseeds-protocol/main-space-60880/overview)
