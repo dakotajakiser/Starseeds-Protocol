@@ -6,4 +6,4 @@ The treasury can utilize every other decentralized protocol known and is purpose
 \
 A portion of revenues from decentralized trading strategies and holdings deployed by the treasury are used each week to transfer rewards to Protocol Stakers/Item holders. At the time of writing, our target base APR for long-hold Item yields is 25-45% APR, and between 12-24% for various liquid staking positions. \
 \
-This return is a multiplier on top of the increase of growth of STARv2 over time.&#x20;
+This return is designed to be a multiplier on top of the increase of growth of STARv2 and the V2 ecosystem over time.&#x20;
