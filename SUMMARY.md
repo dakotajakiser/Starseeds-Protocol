@@ -13,6 +13,7 @@
   * [STARPower Generators](virtual-items-with-unique-utility/starpower-generators.md)
   * [Arcturian Moon Stations](virtual-items-with-unique-utility/arcturian-moon-stations.md)
   * [Andromeda Homeships](virtual-items-with-unique-utility/andromeda-homeships.md)
+  * [Martian Destroyer Guardian](virtual-items-with-unique-utility/martian-destroyer-guardian.md)
 * [StarSeeds DAO](starseeds-dao/README.md)
   * [StarSeeds DAO V2](starseeds-dao/starseeds-dao-v2.md)
   * [Critical Voting Decisions Can't be Bribed.](starseeds-dao/1.-voting-rights-are-a-privilege.-not-a-paycheck..md)
