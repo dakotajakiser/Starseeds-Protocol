@@ -27,3 +27,4 @@
 * [Developer Bounties](https://app.dework.xyz/starseeds-protocol/main-space-60880/overview)
 * [Audit](https://solidity.finance/audits/StarSeed/)
 * [StarSeed's Protocol dAPP V1](https://starseeds-protocol.eth.limo/#/)
+* [Limited Origin Relic Founders Items](limited-origin-relic-founders-items.md)
