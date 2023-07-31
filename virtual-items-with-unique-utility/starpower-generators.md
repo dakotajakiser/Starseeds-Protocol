@@ -1,3 +1,7 @@
+---
+description: Costs 3 STARv2 to Mint
+---
+
 # STARPower Generators
 
 STARPG are a new set of revenue enhancing items that produce STARP. These token generating virtual items provide a unique percentage increase over time to the revenues produced by STARV2, StarStations, and StarDollars. \
