@@ -7,7 +7,7 @@
 * [Gamified Yield Enhancing Ecosystem Tokens](synergistic-ecosystem-tokens/gamified-yield-enhancing-ecosystem-tokens.md)
 * [Virtual Items with Unique Utility](virtual-items-with-unique-utility/README.md)
   * [Token and NFT Game Mechanics](token-and-nft-game-mechanics.md)
-* [Limited Founders Collective with Exceptional Utility.](limited-origin-relic-founders-items.md)
+* [Founders NFT Collection.](founders-nft-collection..md)
 * [StarSeeds DAO](starseeds-dao/README.md)
   * [Create STARGOV Command Bridges](https://starseeds-protocol.eth.limo/#/starCommand)
   * [StarSeeds DAO Snapshot Group](https://snapshot.org/#/starseeds-dao.eth)
