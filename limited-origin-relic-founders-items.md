@@ -12,9 +12,13 @@ The vAPR for this NFT series surpasses the return on all other StarSeeds Protoco
 **Origin Relics:** Each of the limited 333 Origin Relics comes with a set of unique advantages:
 
 * Eligibility for an enhanced staking option on almost every part of the V2 ecosystem (higher yields), with the exact enhancement varying between a 5-15% increase depending on strategy and option.
-* Monthly benefits include an additional 22% of all STARv2 and STARD rewards distributed to all platform users (0.7% per holder), 11% of all revenues from all StarSeeds Protocol-owned holdings (0.05% per holder) with options for transfer in eth/wsteth/wbtc/usdc/dai/wusdr/usd+, and an extra 22% of all STARGOV emitted (0.7% per holder).
-* The StarSeeds Protocol has strong incentives to acquire any under-median priced Origin Relics, likely driving significant demand for Origin Relics.
+* Monthly benefits spread across the collection include an additional 22% of all STARv2 and STARD rewards distributed to all platform users , 11% of all revenues from all StarSeeds Protocol-owned holdings with options for transfer in eth/usd, and an extra 22% of all STARGOV emitted.
+* The StarSeeds Protocol has strong incentives to acquire any under-median priced Origin Relics, likely driving significant demand.
 * Origin Relics can be upgraded into Interplanetary Shipyards with multiplied benefits.
+
+
+
+
 
 **Planetary Shipyards:** A maximum of 22 Origin NFTs can be upgraded into "Planetary Shipyards" for 1000 STARv2 per upgrade, featuring:
 
@@ -41,3 +45,6 @@ The vAPR for this NFT series surpasses the return on all other StarSeeds Protoco
 * Grants an additional 2-5% yield bonus (10-30% depending on option).
 
 The Founders NFT series represents a unique and highly beneficial opportunity for those interested in the StarSeeds Protocol ecosystem.
+
+
+

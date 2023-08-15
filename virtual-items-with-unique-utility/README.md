@@ -6,15 +6,15 @@ StarSeed's Protocol V2 leverages a variety of NFT Vaults and strategies that off
 
 This suite of ecosystem assets is intended to replace the traditional token airdrop-receiving V1 stations used previously.
 
-Martial Flip StarStations: These stations can be staked to gather STARM or sent on weekly missions to collect STARC. Each station has a limited lifespan, after which it becomes derelict and can only be burned to retrieve a small amount of STARM and STARC.&#x20;
+**Martial Flip StarStations**: These stations can be staked to gather STARM or sent on weekly missions to collect STARC. Each station has a limited lifespan, after which it becomes derelict and can only be burned to retrieve a small amount of STARM and STARC.&#x20;
 
-STARPower Generators: These can be staked to earn additional STARP. They can also be upgraded into higher-level generators, increasing their STARP yield by burning STARP. Level 3 STARP generators also start producing STARC, a token backed by revenues from the StarSeeds DAO DEX Trading Portfolio.
+**STARPower Generators**: These can be staked to earn additional STARP. They can also be upgraded into higher-level generators, increasing their STARP yield by burning STARP. Level 3 STARP generators also start producing STARC, a token backed by revenues from the StarSeeds DAO DEX Trading Portfolio.
 
-Arcturian Moon Stations: These stations can be staked to generate small amounts of STARM and STARC. Their primary function, however, is to use STARPower and STARMatter to create STARAlloy. Maximum level Moon Stations can utilize STARAlloy, STARCredits, and STARPower to create STARFuel. There are a total of five upgrade levels, with details to be determined.
+**Arcturian Moon Stations**: These stations can be staked to generate small amounts of STARM and STARC. Their primary function, however, is to use STARPower and STARMatter to create STARAlloy. Maximum level Moon Stations can utilize STARAlloy, STARCredits, and STARPower to create STARFuel. There are a total of five upgrade levels, with details to be determined.
 
-Andromeda Motherships: Andromeda Homeships can either produce STARv2 or generate a higher amount of Martial Flip Cruisers, STARPower Generators, or Arcturian Moon Stations.
+**Andromeda Motherships**: Andromeda Homeships can either produce STARv2 or generate a higher amount of Martial Flip Cruisers, STARPower Generators, or Arcturian Moon Stations.
 
-Martian Destroyers: These ships exclusively produce STARv2, requiring substantial amounts of STARPower and potentially STARFuel. They have three upgrade levels, each costing a significant amount of STARAlloys and increasing the STARPower needed for deployment.
+**Martian Destroyer**s: These ships exclusively produce STARv2, requiring substantial amounts of STARPower and potentially STARFuel. They have three upgrade levels, each costing a significant amount of STARAlloys and increasing the STARPower needed for deployment.
 
 In conclusion, StarSeed's Protocol V2 introduces a set of virtual items with unique utility that can enhance the yields of users in the protocol. By employing these NFTs strategically, users can benefit from increased financial gains.\
 \
