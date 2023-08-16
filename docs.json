@@ -1,0 +1,78 @@
+{
+  "docs": [
+    {
+      "title": "The StarSeeds Protocol",
+      "file": "README.md"
+    },
+    {
+      "title": "StarSeeds Protocol V2",
+      "file": "starseeds-protocolv2/README.md",
+      "subdocs": [
+        {
+          "title": "Multi-protocol, Multi-chain.",
+          "file": "starseeds-protocolv2/starv2-balancer-superpool.md"
+        }
+      ]
+    },
+    {
+      "title": "Synergistic Ecosystem Tokens",
+      "file": "synergistic-ecosystem-tokens/README.md"
+    },
+    {
+      "title": "Gamified Yield Enhancing Ecosystem Tokens",
+      "file": "synergistic-ecosystem-tokens/gamified-yield-enhancing-ecosystem-tokens.md"
+    },
+    {
+      "title": "Virtual Items with Unique Utility",
+      "file": "virtual-items-with-unique-utility/README.md",
+      "subdocs": [
+        {
+          "title": "Token and NFT Game Mechanics",
+          "file": "token-and-nft-game-mechanics.md"
+        }
+      ]
+    },
+    {
+      "title": "Founders NFT Collection.",
+      "file": "founders-nft-collection..md"
+    },
+    {
+      "title": "StarSeeds DAO",
+      "file": "starseeds-dao/README.md",
+      "links": [
+        {
+          "title": "Create STARGOV Command Bridges",
+          "url": "https://starseeds-protocol.eth.limo/#/starCommand"
+        },
+        {
+          "title": "StarSeeds DAO Snapshot Group",
+          "url": "https://snapshot.org/#/starseeds-dao.eth"
+        }
+      ]
+    },
+    {
+      "title": "StarSeeds Protocol Treasury",
+      "file": "starseeds-protocol-treasury.md"
+    },
+    {
+      "title": "Starseeds Representative Network",
+      "file": "representative-network.md"
+    },
+    {
+      "title": "Smart Contracts",
+      "file": "contracts.md"
+    },
+    {
+      "title": "Developer Bounties",
+      "link": "https://app.dework.xyz/starseeds-protocol/main-space-60880/overview"
+    },
+    {
+      "title": "Audit",
+      "link": "https://solidity.finance/audits/StarSeed/"
+    },
+    {
+      "title": "StarSeed's Protocol dAPP V1",
+      "link": "https://starseeds-protocol.eth.limo/#/"
+    }
+  ]
+}
