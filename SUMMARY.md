@@ -1,12 +1,11 @@
 # Table of contents
 
 * [The StarSeeds Protocol](README.md)
-* [StarSeeds Protocol V2](starseeds-protocolv2/README.md)
-  * [Multi-protocol, Multi-chain.](starseeds-protocolv2/starv2-balancer-superpool.md)
+* [StarSeeds Protocol V2](starseeds-protocolv2.md)
 * [Synergistic Ecosystem Tokens](synergistic-ecosystem-tokens/README.md)
-* [Gamified Yield Enhancing Ecosystem Tokens](synergistic-ecosystem-tokens/gamified-yield-enhancing-ecosystem-tokens.md)
-* [Virtual Items with Unique Utility](virtual-items-with-unique-utility/README.md)
-  * [Token and NFT Game Mechanics](token-and-nft-game-mechanics.md)
+* [Engaging Gamified Enhancements: Elevating Yields with Flexibility](engaging-gamified-enhancements-elevating-yields-with-flexibility.md)
+* [Unlocking Potential Through Gamified Innovation](unlocking-potential-through-gamified-innovation.md)
+* [Token and NFT Game Mechanics](token-and-nft-game-mechanics.md)
 * [Founders NFT Collection.](founders-nft-collection..md)
 * [StarSeeds DAO](starseeds-dao/README.md)
   * [Create STARGOV Command Bridges](https://starseeds-protocol.eth.limo/#/starCommand)

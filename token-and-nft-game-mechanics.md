@@ -1,37 +1,47 @@
 # Token and NFT Game Mechanics
 
-Martian Flip Cruiser\
-&#x20;A level 1 Cruiser can only last for a maximum of four 7 day missions. \
-\
-Can be minted with 1 STARv2 or by Andromedas Homeships. Upgrading to level 2 costs 1 STARv2, 100 STARMaterials and 20 STARCredits. Level two cruisers have 3.5X times the mission endurance and 2.2X the yield of level 1 cruisers. \
-\
-After a cruiser has expended its endurance, it can be melted down in a Arcturian moon station. A Level 1 cruiser gives between 3-15 STARMaterials and 1-3 STARCredits (Depending on the level of the Moon Station and its STAR Power Boost level). A Level 2 Cruiser gives between 10-35 STARMaterials and 4-12 STARCredits\
-\
-StarPower Generators\
-\
-STARPG LV1: Costs 100 STARP and 5 STARV2 to mint. Generates either 0.7 or 1.5 STARP  per day, depending on staking method. The first staking method is free. The second costs 3 STARv2 and 70 STARP. \
-\
-STARP LV2: Costs a Level 1 STARPG, 300 STARP and 10 STARv2 to mint. Generates 3/7 STARP per day.The first staking method is free. The second costs 10 STARv2 and 150 STARP. \
-\
-STARP LV3: Costs a Level 2 STARPG, 1,000 STARP and 20 STARv2 to mint. Generates 6/12 STARP and 0.05 or 0.2 STARC per day. The first staking method is free. The second costs 20 STARv2 and 300 STARP. \
-\
-All rates can be modified via StarSeeds Protocol DAO Vote. \
-\
-Andromeda Mothership\
-As a base, Homeships produce 1.15 STARv2 worth of other ships for every STARv1 they would typically produce. \
-\
-Homeships can be upgraded up to 8 times.  The first four upgrades grant either a 3% bonus (per level) to STARv2 production, or a 5% bonus towards producing other stations. The final three upgrades allow the homeship to produce both STARv2 and other Ships, at the cost of expending additional STARAlloys, STARPower, and STARCredits.\
-\
-At level 6, a homestation can reduce ship making or star forging efficiency by 30% in exchange for 45% efficiency in the other activity. \
-\
-At level 7, efficiency reduction is reduced to 25% while the alternative activity efficiency increases to 50%. \
-\
-At level 8, the reduction goes down to 15% while the alternative efficiency increases to 60%\
-\
-Martian Destroyer\
-\
-Level 1 has a staking option that requires no STARPower and provides the base return set by the StarSeeds Protocol. (Target 30% APR). By spending 100 STARPower per day, return rate increases by 1% plus 5% of base APR. By spending 10 STARFuel per day, return rate increases by another 5%. \
-\
-Each level up increases the return rate by a flat 1% + 5% of the base, the STARPOWER/STARFuel cost by 3 times, and the boost rate for using STARPower/STARFuel by a flat 3% of the last levels base. (At level 2, the boost from using 300 STARPower per day would be 8%).\
-\
-Boost from STARPower/STARFuel usage is multiplied, not added.  \
+**Navigating the Energetic Ecosystem: A Guide to StarSeeds Protocol V2 Game Mechanics**
+
+Welcome to the heart of StarSeeds Protocol V2's game mechanics, where strategic decisions pave the way to greater financial prosperity. Let's delve into the intricacies of some key elements that define this engaging world.
+
+**Martian Flip Cruiser: Elevating Exploration**
+
+Setting sail with the Martian Flip Cruiser offers an exciting journey. At level 1, these cruisers embark on seven-day missions, with a maximum lifespan of four missions. Minting a level 1 Cruiser requires 1 STARv2 or Andromeda Homeships. Upgrade options follow:
+
+* Level 2: Costs 1 STARv2, 100 STARMaterials, and 20 STARCredits. This advanced version boasts 3.5X mission endurance and 2.2X the yield of level 1 cruisers.
+
+When a Cruiser's endurance concludes, head to an Arcturian Moon Station for a transformation. Level 1 cruisers yield between 3-15 STARMaterials and 1-3 STARCredits, while Level 2 Cruisers offer 10-35 STARMaterials and 4-12 STARCredits, dependent on the Moon Station's level and STAR Power Boost.
+
+**STARPower Generators: Illuminating Progress**
+
+Introducing STARPower Generators, the foundation of elevated yields:
+
+* STARPG LV1: Minting requires 100 STARP and 5 STARv2. Yields 0.7 or 1.5 STARP daily, depending on staking.
+* STARP LV2: Built from a Level 1 STARPG, costing 300 STARP and 10 STARv2. Yields 3/7 STARP daily.
+* STARP LV3: Crafted from a Level 2 STARPG, demanding 1,000 STARP and 20 STARv2. Yields 6/12 STARP and 0.05 or 0.2 STARC daily.
+
+The two staking methods for each can be further tweaked via StarSeeds Protocol DAO Vote.
+
+**Andromeda Mothership: Sailing Towards Potential**
+
+Homeships are your gateway to enhanced STARv2 production and more:
+
+* Base Homeships yield 1.15 STARv2 worth of other ships per STARv1's typical production.
+* Eight upgrades present options: four grant 3% bonus (per level) to STARv2 production or a 5% bonus towards other station production.
+* Final three upgrades introduce dual STARv2 and ship production, at the cost of STARAlloys, STARPower, and STARCredits.
+* Level 6 allows efficiency exchange: 30% reduction in one activity for 45% efficiency in the other.
+* Level 7 minimizes reduction to 25% and boosts alternative activity efficiency to 50%.
+* Level 8 further reduces the drop to 15% and boosts alternative efficiency to 60%.
+
+**Martian Destroyer: Forging Pathways to Prosperity**
+
+Strategically boosting returns, Martian Destroyers offer flexible options:
+
+* Level 1 presents base return (target 30% APR) with no STARPower usage.
+* By expending 100 STARPower per day, return increases by 1% plus 5% of base APR.
+* An additional 5% boost is possible by spending 10 STARFuel daily.
+* Each level escalation elevates return by a flat 1% + 5% of base, with costs and boosts adapting accordingly.
+
+Boost from STARPower/STARFuel usage is multiplicative, enriching your returns in a dynamic way.
+
+Embrace the complexity of these mechanisms, or appreciate their significance from a distance—the choice is yours. For those who delve deeper, slight increases in rewards await, amplifying your journey toward financial growth.
