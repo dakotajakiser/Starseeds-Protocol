@@ -29,3 +29,4 @@ View our network of Protocol Treasury Accounts here\
 [https://debank.com/profile/0xf826bc629d859af67736671274bfbf0967e36729](https://debank.com/profile/0xf826bc629d859af67736671274bfbf0967e36729)\
 [https://debank.com/profile/0xBDCBD23316AAA2aDecA774e107868adCE38cC69E](https://debank.com/profile/0xBDCBD23316AAA2aDecA774e107868adCE38cC69E)\
 [https://portfolio.nansen.ai/dashboard/0xBDCBD23316AAA2aDecA774e107868adCE38cC69E](https://portfolio.nansen.ai/dashboard/0xBDCBD23316AAA2aDecA774e107868adCE38cC69E)\
+[https://debank.com/profile/0x2aca189767cecf31087aafc0c50a59a7d83b6376](https://debank.com/profile/0x2aca189767cecf31087aafc0c50a59a7d83b6376)\
