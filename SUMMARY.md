@@ -12,7 +12,7 @@
   * [Create STARGOV Command Bridges](https://starseeds-protocol.eth.limo/#/starCommand)
   * [StarSeeds DAO Snapshot Group](https://snapshot.org/#/starseeds-dao.eth)
 * [StarSeeds Protocol Treasury](starseeds-protocol-treasury.md)
-* [Starseeds Representative Network](representative-network.md)
+* [Unveiling the StarSeeds Representative Network: Shaping the Future Together](representative-network.md)
 * [Smart Contracts](contracts.md)
 * [Developer Bounties](https://app.dework.xyz/starseeds-protocol/main-space-60880/overview)
 * [Audit](https://solidity.finance/audits/StarSeed/)

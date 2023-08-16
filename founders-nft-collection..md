@@ -47,10 +47,10 @@ In Tier 2, a selection of Origin NFTs can be upgraded into "Planetary Shipyards"
 
 Tier 3 unveils 11 Fleet Motherships, upgraded from Planetary Shipyards. Fleet Motherships encompass enhanced airdrop benefits, a percentage of STARGOV transfers and taxes from ecosystem token transfers, and more.
 
-* **Tier 4: StarSeeds Planetary Spaceship (maximum supply of 5) (Mint Cost of $100,000).**
+* **Tier 4: StarSeeds Planetary Spaceship (maximum supply of 5) (Only two for sale via Auction).**
 
 Tier 4: This tier includes a limited number of StarSeeds HomePlanets that offer expanded benefits. They hold authority to veto potentially detrimental proposals, influence the protocol's profit-generating portfolio, and have the privilege to initiate sponsored forks of the StarSeeds Protocol, among other powerful advantages. These holders are also entitled to substantial perks in the upcoming StarSeeds Space MMO game.
 
-
-
-Engage in this exceptional opportunity and amplify your engagement in the future of decentralized finance. The financial benefits are unparalleled compared to all past and future offerings that the StarSeeds Protocol will ever release.&#x20;
+Engage in this exceptional opportunity and amplify your engagement in the future of decentralized finance. The financial benefits are unparalleled compared to all past and future offerings that the StarSeeds Protocol will ever release. \
+\
+In terms of vAPR, if the net value of the StarSeeds Protocol exceeds 1M, projected returns for Founders NFT collectors exceed 100% per year. The StarSeeds Protocol has significant potential to exceed 100M+ in TVL over time, giving these NFTs exceptional financial potential.&#x20;
