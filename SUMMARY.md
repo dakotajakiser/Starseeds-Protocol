@@ -1,8 +1,8 @@
 # Table of contents
 
 * [The StarSeeds Protocol](README.md)
-* [A New Era Unveiled: StarSeeds Protocol V2](starseeds-protocolv2.md)
-* [Heighten your Success with the StarSeeds Protocol](heighten-your-success-with-the-starseeds-protocol.md)
+* [StarSeeds Protocol V2](starseeds-protocolv2.md)
+* [Case Uses](case-uses.md)
 * [Synergistic Ecosystem Tokens](synergistic-ecosystem-tokens/README.md)
 * [Engaging Gamified Enhancements: Elevating Yields with Flexibility](engaging-gamified-enhancements-elevating-yields-with-flexibility.md)
 * [Unlocking Potential Through Gamified Innovation](unlocking-potential-through-gamified-innovation.md)
