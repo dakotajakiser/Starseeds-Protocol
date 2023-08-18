@@ -16,9 +16,9 @@ At the heart of the StarSeeds Protocol is the native token, STAR. With STAR, use
 
 The StarSeeds Protocol adapts and evolves, creating opportunities for users to achieve higher profits compared to traditional trading methods. Expert traders contribute to the DAO's governance, enhancing system returns and creating a self-sustaining cycle of growth.
 
-**Developers: The Driving Force**
+**Traders: The Driving Force**
 
-Developers play a crucial role in the protocol’s expansion, contributing innovative trading strategies that enhance the platform's optimization capabilities. Through their efforts, the protocol continually evolves, paving the way for new and improved solutions.
+Traders play a crucial role in the protocol’s expansion, contributing innovative trading strategies that enhance the platform's optimization capabilities. Through their efforts, the protocol continually evolves, paving the way for new and improved solutions.
 
 **A Versatile Ecosystem**
 
