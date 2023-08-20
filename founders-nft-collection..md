@@ -33,11 +33,11 @@ Each Origin Relic in Tier 1 is accompanied by unique advantages, including eligi
 
 In Tier 2, a selection of Origin NFTs can be upgraded into "Planetary Shipyards" for expanded benefits. These upgraded NFTs feature tripled airdrop benefits, enhanced yield on ecosystem staking and holding options, and other remarkable advantages.
 
-* **Tier 3: Fleet Motherships (maximum supply of 22) (Mint Cost Between $11,000-$22,00)**
+* **Tier 3: Fleet Motherships (maximum supply of 33) (Mint Cost Between $11,000-$22,00)**
 
-Tier 3 unveils 11 Fleet Motherships, upgraded from Planetary Shipyards. Fleet Motherships encompass enhanced airdrop benefits, a percentage of STARGOV transfers and taxes from ecosystem token transfers, and more.
+Tier 3 unveils 11 Fleet Motherships, upgraded from Planetary Shipyards. Fleet Motherships encompass enhanced airdrop benefits, a percentage of STARGOV transfers and taxes from ecosystem token transfers.
 
-* **Tier 4: StarSeeds Planetary Spaceship (maximum supply of 5) (Only two for sale via Auction).**
+* **Tier 4: StarSeeds Planetary Spaceship (maximum supply of 11) (Only four for sale via Auction).**
 
 Tier 4: This tier includes a limited number of StarSeeds HomePlanets that offer expanded benefits. They hold authority to veto potentially detrimental proposals, influence the protocol's profit-generating portfolio, and have the privilege to initiate sponsored forks of the StarSeeds Protocol, among other powerful advantages. These holders are also entitled to substantial perks in the upcoming StarSeeds Space MMO game.\
 \
