@@ -25,32 +25,20 @@ Remarkably, a substantial portion of Tier 2 and Tier 3 NFTs have already been cl
 
 Act now to seize this exclusive opportunity and become an integral part of the StarSeeds Protocol's legacy and future. Join us on this remarkable journey towards the pinnacle of decentralized finance. All funds raised are directed towards seeding liquidity pools for the V2 launch.
 
-**Elevate Your NFT Holdings with StarSeeds HomePlanets**
-
-Act swiftly to grasp this exclusive opportunity and solidify your role in the StarSeeds Protocol's legacy and future. Enlist with us on an extraordinary journey toward the zenith of decentralized finance. Every contribution is directed towards fueling liquidity pools for the impending V2 launch.
-
-**Elevate Your NFT Holdings with StarSeeds HomePlanets**
-
-Anticipate the imminent unveiling of StarSeeds Protocol V2 Liquidity pools as we introduce the Founders NFT series, delivering an unparalleled array of advantages. This includes a permanent percentage of StarSeeds Protocol Portfolio returns, a share of ecosystem token taxes, a fixed portion of the StarSeeds DAO's voting power, exclusive voting rights, and a percentage of every upcoming sponsored fork of the StarSeed's Protocol.
-
-The vAPR for this NFT series surpasses the returns of all other StarSeeds Protocol NFTs by an extraordinary measure. The series is structured into four tiers:
-
-* **Tier 1: Origin Relics (maximum supply of 333) (Price between $300-$900)**
+* **Tier 1: Origin Relics (maximum supply of 333) (Price between $250-$900)**
 
 Each Origin Relic in Tier 1 is accompanied by unique advantages, including eligibility for advanced staking options, monthly benefits contributing to all platform users, a share of StarSeeds Protocol-owned holdings revenues, and more. Origin Relics have the potential to be upgraded to Interplanetary Shipyards for amplified benefits.
 
-* **Tier 2: Planetary Shipyards (maximum supply of 33) (Mint Cost between $3,000-$5,000)**
+* **Tier 2: Planetary Shipyards (maximum supply of 55) (Mint Cost between $3,000-$5,000)**
 
 In Tier 2, a selection of Origin NFTs can be upgraded into "Planetary Shipyards" for expanded benefits. These upgraded NFTs feature tripled airdrop benefits, enhanced yield on ecosystem staking and holding options, and other remarkable advantages.
 
-* **Tier 3: Fleet Motherships (maximum supply of 11) (Mint Cost Between $11,000-$22,00)**
+* **Tier 3: Fleet Motherships (maximum supply of 22) (Mint Cost Between $11,000-$22,00)**
 
 Tier 3 unveils 11 Fleet Motherships, upgraded from Planetary Shipyards. Fleet Motherships encompass enhanced airdrop benefits, a percentage of STARGOV transfers and taxes from ecosystem token transfers, and more.
 
 * **Tier 4: StarSeeds Planetary Spaceship (maximum supply of 5) (Only two for sale via Auction).**
 
-Tier 4: This tier includes a limited number of StarSeeds HomePlanets that offer expanded benefits. They hold authority to veto potentially detrimental proposals, influence the protocol's profit-generating portfolio, and have the privilege to initiate sponsored forks of the StarSeeds Protocol, among other powerful advantages. These holders are also entitled to substantial perks in the upcoming StarSeeds Space MMO game.
-
-Engage in this exceptional opportunity and amplify your engagement in the future of decentralized finance. The financial benefits are unparalleled compared to all past and future offerings that the StarSeeds Protocol will ever release. \
+Tier 4: This tier includes a limited number of StarSeeds HomePlanets that offer expanded benefits. They hold authority to veto potentially detrimental proposals, influence the protocol's profit-generating portfolio, and have the privilege to initiate sponsored forks of the StarSeeds Protocol, among other powerful advantages. These holders are also entitled to substantial perks in the upcoming StarSeeds Space MMO game.\
 \
-In terms of vAPR, if the net value of the StarSeeds Protocol exceeds 1M, projected returns for Founders NFT collectors exceed 100% per year. The StarSeeds Protocol has significant potential to exceed 100M+ in TVL over time, giving these NFTs exceptional financial potential.&#x20;
+In terms of vAPR, if the net value of the StarSeeds Protocol exceeds 1M, projected returns for Founders NFT collectors substantially exceed over 100% per year. The StarSeeds Protocol has significant potential to exceed 100M+ in TVL over time, giving these NFTs exceptional potential.&#x20;
