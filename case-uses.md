@@ -15,16 +15,16 @@ Are you new to the world of decentralized finance? We've streamlined the process
 
 **For Expert Traders: Join the Inner Circle**
 
-Are you an experienced trader seeking an edge? Engage with StarSeeds Protocol to access exclusive perks:
+Are you an experienced trader seeking an edge to make more money with? Engage with StarSeeds Protocol to access exclusive perks:
 
 * **Insider Trading Information**: Collaborate with fellow members of the StarSeeds DAO and gain insider insights to optimize your trading strategies.
 * **Rewards for Contribution**: Your expertise matters. Receive a percentage of the gains you assist the StarSeeds Protocol in generating.
 
-**For Fund Managers: Empower Your Influence**
+**For Fund Managers: The power of countless DAOs and Protocols - in one.**&#x20;
 
-Are you a fund manager looking to expand your impact? Participate in the StarSeeds Protocol and amplify your influence:
+Are you a fund manager looking to expand your blockchain power base? Participate in the StarSeeds Protocol and amplify your influence:
 
-* **Ownership and Control**: The StarSeeds Protocol is designed to increase ownership and control within the world's premier financial protocols.
+* **Ownership and Control**: The StarSeeds Protocol is designed to ongoingly increase its ownership and control within the world's premier blockchain protocols.
 * **Multi-DAO Influence**: Your vote within the StarSeeds DAO ripples across every DAO with which the protocol shares ownership. Shape countless ecosystems through a single connection.
 
 **For Partnered DAOs and Protocols: Thrive Together**
