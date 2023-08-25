@@ -8,10 +8,10 @@
 ](https://polygonscan.com/address/0x1A00A461b7264379364B836c50c5199868B0180F)\
 [STARV2 Staking: 0xD43bF5Cd8D8E8931f34C6050fc93f104971418bE](https://polygonscan.com/address/0xD43bF5Cd8D8E8931f34C6050fc93f104971418bE)
 
-[StarSeeds Origin Pass: 0xDa688ebF6B0cAa9C166fAB3F080975fF573Aa93a](representative-network.md)
+[StarSeeds Origin Pass: 0xDa688ebF6B0cAa9C166fAB3F080975fF573Aa93a](under-development/representative-network.md)
 
 [DAO to STARv2 Staking Contract: 0x1A00A461b7264379364B836c50c5199868B0180F\
-](representative-network.md)\
+](under-development/representative-network.md)\
 [STARDollarsV2: 0x7b2a9632519467F2B74CA1D36874549ae918c882](https://polygonscan.com/address/0x7b2a9632519467F2B74CA1D36874549ae918c882)\
 \
 Polygon [STARPowerV2: 0x4C29Aa9FdED55fF017a973DdB7576359FbFD8301](https://polygonscan.com/address/0x4C29Aa9FdED55fF017a973DdB7576359FbFD8301)\

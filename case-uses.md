@@ -1,10 +1,10 @@
-# Heighten your Success with the StarSeeds Protocol
+# Case Uses
 
 **Unlock Your Path to Financial Success: Engage with StarSeeds Protocol**
 
 At StarSeeds Protocol, we're committed to simplifying and maximizing your journey to financial prosperity. Whether you're a beginner, an expert trader, a fund manager, or a partner DAO/Protocol, there's a tailored pathway for you to participate and thrive in our ecosystem.
 
-**For Beginners: Effortless Gains in Minutes**
+**For Beginners: Easy Gains in Minutes**
 
 Are you new to the world of decentralized finance? We've streamlined the process for you. In just 10 minutes, you can embark on your journey to financial gains:
 
