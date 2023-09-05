@@ -1,20 +1,12 @@
----
-cover: .gitbook/assets/ezgif.com-optimize.gif
-coverY: 0
----
-
 # Velocimeter Space Colonies
 
 These Special Edition Commemorative NFTs represent digital Space Colonies that produce tokenized resources (DEX trade-able ERC20 tokens) on an hourly basis for their holders.&#x20;
 
-This Unique Collection was deployed on the Fantom network to commemorate the partnership between the Velocimeter and StarSeeds Protocols. \
-\
-\
-
-
 Holders of one or more Colonies become the beneficiary of a stakeholder registry streaming contract, which receives 30%\* of fees/incentives from StarSeeds Protocol Liquidity and veFVM on Velocimeter’s FVM.exchange. In addition, 1,000,000 units of STARP and 3,000 STARv2 have been allocated for distribution to collection holders. $45K worth of tokens (at time of deployment).
 
 
+
+<figure><img src=".gitbook/assets/ezgif.com-optimize.gif" alt=""><figcaption><p>Space Colony Gif</p></figcaption></figure>
 
 Tokens transferred to mint this collection are deposited into FVM.exchange liquidity pools/veFVM and then locked/relocked continuously\*.
 
@@ -24,10 +16,12 @@ The items in this collection are weighted, the first 77 receive 3.5X more tokens
 
 
 
-Based on past data and current market rates, estimated year one vAPR for the first 144 NFTs ranges from 300% - 500%+. Cost to mint these limited edition items increases over time and as more are sold.&#x20;
+Based on past data and current market rates, estimated year one vAPR for the first 144 NFTs ranges from 300% - 500%+. Cost to mint these limited edition items increases over time and as more are sold. \
 
-\
-Buy at [SVSC.ju.mp](https://svsc.ju.mp)
+
+{% embed url="https://svsc.ju.mp/" %}
+Buy Velocimeter SpaceColony Here - svsc.ju.mp
+{% endembed %}
 
 
 
