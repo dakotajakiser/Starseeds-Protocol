@@ -13,6 +13,8 @@ Tokens transferred to mint this collection are deposited into FVM.exchange liqui
 The items in this collection are weighted, the first 77 receive 3.5X more tokens from the streaming contract. The next 100 have from 3.3-2.7X more weight, and so on. Only the first 500 have a weight bonus. Maximum total supply of 888.
 
 Based on past data and current market rates, estimated year one vAPR for the first 144 NFTs ranges from 300% - 500%+. Cost to mint these limited edition items increases over time and as more are sold. \
+\
+It can take up to 10 days for your shares to update on the token claim page in order for you to claim your tokens. \
 
 
 {% embed url="https://svsc.ju.mp/" %}
