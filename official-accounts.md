@@ -1,4 +1,4 @@
-# Official WebPages/Addresses
+# Official Accounts
 
 **Official Website Domains owned by the StarSeeds Protocol/DAO**\
 starseeds.exchange\
