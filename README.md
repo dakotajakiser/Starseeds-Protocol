@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # The StarSeeds Protocol
 
 **Introducing the StarSeeds Protocol: Access point to Optimized Financial Returns**
