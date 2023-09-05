@@ -9,6 +9,7 @@
   * [StarSeeds DAO Snapshot Group](https://snapshot.org/#/starseeds-dao.eth)
 * [StarSeeds Protocol Treasury](starseeds-protocol-treasury.md)
 * [Velocimeter Space Colonies](velocimeter-space-colonies.md)
+* [DAO Origin Relics](dao-origin-relics.md)
 * [Optional Protocol Revenue Generating Gamification](optional-protocol-revenue-generating-gamification/README.md)
   * [Synergistic Ecosystem Tokens](optional-protocol-revenue-generating-gamification/synergistic-ecosystem-tokens.md)
   * [Engaging Gamified Enhancements](optional-protocol-revenue-generating-gamification/engaging-gamified-enhancements.md)
