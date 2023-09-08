@@ -6,7 +6,7 @@ Holders of one or more Colonies become the beneficiary of a stakeholder registry
 
 
 
-<figure><img src=".gitbook/assets/ezgif.com-optimize.gif" alt=""><figcaption><p>Space Colony Gif</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ezgif.com-optimize.gif" alt=""><figcaption><p>Space Colony Gif</p></figcaption></figure>
 
 Tokens transferred to mint this collection are deposited into FVM.exchange liquidity pools/veFVM and then locked/relocked continuously\*.
 
