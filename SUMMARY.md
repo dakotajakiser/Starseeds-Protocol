@@ -17,7 +17,7 @@
   * [Unlocking Potential Through Game Theory Innovation](optional-protocol-revenue-generating-gamification/unlocking-potential-through-game-theory-innovation.md)
 * [Smart Contracts](contracts.md)
 * [Important Links](important-links.md)
-* [Official Accounts](official-accounts.md)
+* [Official Accounts, Pages & Pools](official-accounts-pages-and-pools.md)
 * [V2 Audit](v2-audit.md)
 * [V1 Audit - Solidity Finance](https://solidity.finance/audits/StarSeed/)
 * [StarSeed's Protocol dAPP V1](https://starseeds-protocol.eth.limo/#/)

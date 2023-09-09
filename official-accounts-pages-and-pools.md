@@ -1,4 +1,4 @@
-# Official Accounts
+# Official Accounts, Pages & Pools
 
 **Official Website Domains owned by the StarSeeds Protocol/DAO**\
 starseeds.exchange\
@@ -29,7 +29,7 @@ starseedsprotocol@gmail.com\
 [**https://t.me/starseeds\_protocol**](https://t.me/starseeds\_protocol)\
 \
 **Official StarSeeds Token LP listings (Whitelisted)**\
-[**STARv2 on Balancer.fi**](https://app.balancer.fi/#/polygon/pool/0x6f662a90bc9c48a2acb0958df49c71f35d7bf248000200000000000000000c30)\
+[**STARv2 on Balancer.fi**](https://app.balancer.fi/#/polygon/pool/0x6f662a90bc9c48a2acb0958df49c71f35d7bf248000200000000000000000c30) **(Temporary Reduced for the Qi Migration Event)**\
 [**STARv2 with Farm Gauge on Fantom Velocimeter** ](https://www.fvm.exchange/liquidity/0xa9a05430a2f23be091e417961185a6bd07c0c1c6/0xf72b9001e4573578e13cd99bd874cd50ca5793c2)\
 [**STAR on Meshswap**](https://meshswap.fi/exchange/pool/detail/0xac0796fffc715271174e7c45c5ab0a11c7ac9bf6)\
 [**STARv2 on Antfarm Arbitrum**](https://app.antfarm.finance/pool/0xDD4CFc8565C63E604545923BAF46bc4528F3aD21)\
