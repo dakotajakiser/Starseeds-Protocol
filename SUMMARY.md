@@ -35,6 +35,8 @@
 ## Additional References
 
 * [Project Founder](https://www.linkedin.com/in/dakota-kaiser-earth-nation/)
-* [StarSeeds Logo 256x256px](additional-references/starseeds-logo-256x256px.md)
+* [Compliance Director](https://www.linkedin.com/in/markchasan/)
+* [Marketing Director](https://www.linkedin.com/in/isadorabarragan/)
 * [StarSeeds Logo 32x32px](additional-references/starseeds-logo-32x32px.md)
+* [StarSeeds Logo 256x256px](additional-references/starseeds-logo-256x256px.md)
 * [Star Destroyer GIF](additional-references/star-destroyer-gif.md)
