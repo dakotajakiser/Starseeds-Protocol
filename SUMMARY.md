@@ -20,9 +20,10 @@
 * [Important Links](important-links.md)
 * [Official Accounts & Pages](official-accounts-and-pages.md)
 * [Farms, Liquidity Pools, and Arbitrage Options.](farms-liquidity-pools-and-arbitrage-options..md)
-* [V2 Audit](v2-audit.md)
+* [StarSeeds Protocol V2 dApp](https://sdao.pro/v2)
+* [StarSeed's Protocol V1 dApp](https://starseeds-protocol.eth.limo/#/)
 * [V1 Audit - Solidity Finance](https://solidity.finance/audits/StarSeed/)
-* [StarSeed's Protocol dAPP V1](https://starseeds-protocol.eth.limo/#/)
+* [V2 Audit](v2-audit.md)
 
 ## Under Development
 
@@ -34,3 +35,4 @@
 ***
 
 * [StarSeeds Logo 256x256px](starseeds-logo-256x256px.md)
+* [Project Founder](https://www.linkedin.com/in/dakota-kaiser-earth-nation/)
