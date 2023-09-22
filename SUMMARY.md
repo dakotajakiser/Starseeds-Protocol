@@ -32,7 +32,8 @@
 * [Game Mechanics Guidebook](under-development/game-mechanics-guidebook/README.md)
   * [Martian Destroyer](under-development/game-mechanics-guidebook/martian-destroyer.md)
 
-***
+## Additional References
 
-* [StarSeeds Logo 256x256px](starseeds-logo-256x256px.md)
 * [Project Founder](https://www.linkedin.com/in/dakota-kaiser-earth-nation/)
+* [StarSeeds Logo 256x256px](additional-references/starseeds-logo-256x256px.md)
+* [StarSeeds Logo 32x32px](additional-references/starseeds-logo-32x32px.md)
