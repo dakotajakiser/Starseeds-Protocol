@@ -32,8 +32,8 @@
 * [Game Mechanics Guidebook](under-development/game-mechanics-guidebook/README.md)
   * [Martian Destroyer](under-development/game-mechanics-guidebook/martian-destroyer.md)
 
-## Images
+## Brand Images
 
-* [StarSeeds Logo 32x32px](images/starseeds-logo-32x32px.md)
-* [StarSeeds Logo 256x256px](images/starseeds-logo-256x256px.md)
-* [Star Destroyer GIF](images/star-destroyer-gif.md)
+* [StarSeeds Logo 32x32px](brand-images/starseeds-logo-32x32px.md)
+* [StarSeeds Logo 256x256px](brand-images/starseeds-logo-256x256px.md)
+* [Star Destroyer GIF](brand-images/star-destroyer-gif.md)
