@@ -21,7 +21,7 @@
 * [Official Accounts & Pages](official-accounts-and-pages.md)
 * [Farms, Liquidity Pools, and Arbitrage Options.](farms-liquidity-pools-and-arbitrage-options..md)
 * [StarSeeds Protocol V2 dApp](https://sdao.pro/v2)
-* [StarSeed's Protocol V1 dApp](https://starseeds-protocol.eth.limo/#/)
+* [StarSeed's Protocol V1 dApp](https://app.starseeds.exchange)
 * [V1 Audit - Solidity Finance](https://solidity.finance/audits/StarSeed/)
 * [V2 Audit](v2-audit.md)
 
@@ -32,11 +32,8 @@
 * [Game Mechanics Guidebook](under-development/game-mechanics-guidebook/README.md)
   * [Martian Destroyer](under-development/game-mechanics-guidebook/martian-destroyer.md)
 
-## Additional References
+## Images
 
-* [Project Founder](https://www.linkedin.com/in/dakota-kaiser-earth-nation/)
-* [Compliance Director](https://www.linkedin.com/in/markchasan/)
-* [Marketing Director](https://www.linkedin.com/in/isadorabarragan/)
-* [StarSeeds Logo 32x32px](additional-references/starseeds-logo-32x32px.md)
-* [StarSeeds Logo 256x256px](additional-references/starseeds-logo-256x256px.md)
-* [Star Destroyer GIF](additional-references/star-destroyer-gif.md)
+* [StarSeeds Logo 32x32px](images/starseeds-logo-32x32px.md)
+* [StarSeeds Logo 256x256px](images/starseeds-logo-256x256px.md)
+* [Star Destroyer GIF](images/star-destroyer-gif.md)
