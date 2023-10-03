@@ -2,7 +2,7 @@
 
 * [Mission & Purpose](README.md)
 * [Which Role Fits You Best?](which-role-fits-you-best.md)
-* [Token Yielding NFTs](token-yielding-nfts.md)
+* [DAO Treasury Management + Token Yielding NFTs](dao-treasury-management-+-token-yielding-nfts.md)
 * [Limited NFT Collections](limited-nft-collections/README.md)
   * [StarSeeds V2 Origin Relics](limited-nft-collections/starseeds-v2-origin-relics.md)
   * [Velocimeter Space Colonies](limited-nft-collections/velocimeter-space-colonies.md)
