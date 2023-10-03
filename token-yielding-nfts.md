@@ -8,4 +8,4 @@ As returns are produced, the largest portion of the gains are automatically used
 \
 While most SS Protocol NFTs provide yield from the aggregate total of all SS Treasury accounts, special limited supply NFT Collections provide yield from a specific sub-set of strategies, typically at a higher return rate then standard SS NFTs. \
 \
-While there is no guaranteeing the future, SS Protocol Yield NFTs are designed to to produce yield without a shut-off date.&#x20;
+While there is no guaranteeing the future, SS Protocol Yield NFTs are designed to  produce yield without a shut-off date.&#x20;
