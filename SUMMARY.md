@@ -12,7 +12,6 @@
 * [StarSeeds DAO](starseeds-dao/README.md)
   * [Create STARGOV Command Bridges](https://starseeds-protocol.eth.limo/#/starCommand)
   * [StarSeeds DAO Snapshot Group](https://snapshot.org/#/starseeds-dao.eth)
-* [StarSeeds Protocol Treasury](starseeds-protocol-treasury.md)
 * [Optional Protocol Revenue Generating Gamification](optional-protocol-revenue-generating-gamification/README.md)
   * [Synergistic Ecosystem Tokens](optional-protocol-revenue-generating-gamification/synergistic-ecosystem-tokens.md)
   * [Engaging Gamified Enhancements](optional-protocol-revenue-generating-gamification/engaging-gamified-enhancements.md)
@@ -29,12 +28,10 @@
 ## Under Development
 
 * [Developer Bounties](https://app.dework.xyz/starseeds-protocol/main-space-60880/overview)
-* [Unveiling the StarSeeds Representative Network: Shaping the Future Together](under-development/representative-network.md)
 * [Game Mechanics Guidebook](under-development/game-mechanics-guidebook/README.md)
   * [Martian Destroyer](under-development/game-mechanics-guidebook/martian-destroyer.md)
-
-## Brand Images
-
-* [StarSeeds Logo 32x32px](brand-images/starseeds-logo-32x32px.md)
-* [StarSeeds Logo 256x256px](brand-images/starseeds-logo-256x256px.md)
-* [Star Destroyer GIF](brand-images/star-destroyer-gif.md)
+  * [Unveiling the StarSeeds Representative Network: Shaping the Future Together](under-development/game-mechanics-guidebook/representative-network.md)
+* [Brand Materials](under-development/brand-materials/README.md)
+  * [StarSeeds Logo 32x32px](under-development/brand-materials/starseeds-logo-32x32px.md)
+  * [StarSeeds Logo 256x256px](under-development/brand-materials/starseeds-logo-256x256px.md)
+  * [Star Destroyer GIF](under-development/brand-materials/star-destroyer-gif.md)

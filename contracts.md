@@ -8,7 +8,7 @@
 ](https://polygonscan.com/address/0x1A00A461b7264379364B836c50c5199868B0180F)\
 [STARV2 Staking: 0xD43bF5Cd8D8E8931f34C6050fc93f104971418bE](https://polygonscan.com/address/0xD43bF5Cd8D8E8931f34C6050fc93f104971418bE)
 
-[DAO to STARv2 Staking Contract: 0x1A00A461b7264379364B836c50c5199868B0180F](under-development/representative-network.md)
+[DAO to STARv2 Staking Contract: 0x1A00A461b7264379364B836c50c5199868B0180F](under-development/game-mechanics-guidebook/representative-network.md)
 
 [StarseedsV1 Reward Locker: 0xdaf3aa95303698b9e904d8e3854c2997a711fd82](https://polygonscan.com/address/0xdaf3aa95303698b9e904d8e3854c2997a711fd82)
 
