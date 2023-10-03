@@ -1,8 +1,8 @@
 # Table of contents
 
-* [The StarSeeds Protocol](README.md)
+* [Mission & Purpose](README.md)
+* [Which Role Fits You Best?](which-role-fits-you-best.md)
 * [StarSeeds Protocol V2](starseeds-protocolv2.md)
-* [Introduction](introduction.md)
 * [STARv2](starv2.md)
 * [Limited NFT Collections](limited-nft-collections/README.md)
   * [StarSeeds V2 Origin Relics](limited-nft-collections/starseeds-v2-origin-relics.md)

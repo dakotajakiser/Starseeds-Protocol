@@ -1,5 +1,7 @@
 ---
-description: An OmniChain DeFi Portfolio Optimizing Network
+description: >-
+  An OmniChain DeFi Portfolio Optimizing Network of Smart Contracts, Distributed
+  Technologies and DAOs.
 layout:
   title:
     visible: true
@@ -13,15 +15,15 @@ layout:
     visible: true
 ---
 
-# The StarSeeds Protocol
+# Mission & Purpose
 
-**The Purpose of the StarSeeds Protocol is to serve users worldside with smart contract based services that**&#x20;
+**The Purpose of the StarSeeds Protocol is to serve users across the Galaxy with smart contract based services that**&#x20;
 
 1. **Increase Crypto Portfolio Returns over time.**
-2. **Reduce Risk & Temporary Loss.**
-3. **Simplify complex processes**
-4. **Educate and Empower Non-Expert Users to trade like a team of world class experts**
-5. **Provide uniquely rewarding options, signals, data and tools for financial industry professionals**
-6. **Increase awareness of leading edge Trading Technology**
-7. **Make more money.**
+2. **Reduce Costs, Risks & Temporary Losses.**
+3. **Simplify Complex Processes.**
+4. **Educate and Empower non-expert users to trade like world class pros.**
+5. **Provide Uniquely Rewarding options, signals, data and tools to experts.**
+6. **Increase Adoption of decentralized technologies and methodologies.**&#x20;
+7. **Make More Money.**
 
