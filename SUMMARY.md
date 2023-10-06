@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Mission & Purpose](README.md)
+* [StarSeeds Protocol](README.md)
 * [Which Role Fits You Best?](which-role-fits-you-best.md)
 * [DAO Treasury Management + Token Yielding NFTs](token-yielding-nfts.md)
 * [Limited NFT Collections](limited-nft-collections/README.md)
