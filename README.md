@@ -57,19 +57,21 @@ layout:
 * **STARP:** Gamified farm token.
 * **STARC:** Mintable against interest positions.
 
-**5. Community & Governance:**
+**5. Limited Edition NFTs for Enhanced Returns (Available for a Limited Allocation):**
+
+* **Origin NFT:** Specialized for early adopters.
+* **Dao Relic Velocimeter:** Uniquely designed for maximized returns.
+* **Soul-Bound NFTs:** Exclusive assets to elevate your portfolio. Strategically accumulate these NFTs to fortify your digital arsenal and optimize returns.
+
+**6. Community & Governance:**
 
 * Shape the protocol. Engage in forums, webinars, AMAs.
 
-**6. White Label Solutions:**
+**7. White Label Solutions:**
 
 * Customize the Protocol.
 
-**7. Boost Returns with Limited Edition NFTs:**
-
-* Maximize with exclusive NFTs: Origin NFT, Dao Relic Velocimeter, Soul-Bound NFTs. Build your NFT army.
-
-**8. StarShip NFTs:**
+**8. StarShip NFTs: Quests- Earn By Doing**&#x20;
 
 * 'Earn & play' quests. Finance and gaming blend. Compound interest benefits, integrate with Starseeds V2.
 
